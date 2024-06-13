@@ -1,5 +1,2 @@
 #!/bin/bash
 chgrp school hello
-chown -R vincent:staff .
-#!/bin/bash
-chgrp school hello
